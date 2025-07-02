@@ -58,6 +58,6 @@ const sr = ScrollReveal({
   reset: true,
 });
 
-sr.reveal('.home-slider, .sub-heading, .heading, .about-img, .about-text, .box, .s-box, .connect-text, .contact-box, .order-form', {
+sr.reveal('.home-slider, .sub-heading, .about-img, .about-text, .box, .s-box, .connect-text, .contact-box, .order-form', {
   interval: 200
 });
